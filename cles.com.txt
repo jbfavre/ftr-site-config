@@ -1,0 +1,5 @@
+# Default content detection is OK. Just needed to add multipage support.
+
+next_page_link: //li[@class='pager-next']/a/@href
+
+test_url: http://www.cles.com/enquetes/article/les-chamans-ont-change-la-vie-de-jan-kounen
